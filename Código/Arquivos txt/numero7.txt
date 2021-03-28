@@ -1,0 +1,14 @@
+Numeros:12 91 59 7 18 73 44 57 99 12 
+Maior(es) sequencia(s) programação dinamica:
+7 18 44 57 99 
+Comprimento MSC: 5
+Tempo: 12.000000 ns
+
+Maior(es) sequencia(s) programação gulosa:
+12 18 44 57 99 
+Comprimento MSC: 5
+Tempo: 18.000000 ns
+
+Os dois metodos tiveram o mesmo MSC
+
+O metodo dinamico foi mais rapido que o metodo guloso

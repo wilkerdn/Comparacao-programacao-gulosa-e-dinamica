@@ -1,0 +1,14 @@
+Numeros:34 82 93 30 89 72 32 49 88 0 
+Maior(es) sequencia(s) programação dinamica:
+30 32 49 88 
+Comprimento MSC: 4
+Tempo: 13.000000 ns
+
+Maior(es) sequencia(s) programação gulosa:
+34 82 93 
+Comprimento MSC: 3
+Tempo: 11.000000 ns
+
+O método dinamico obteve um numero maior de MSC do que o guloso
+
+O metodo guloso foi mais rapido que o metodo dinamico

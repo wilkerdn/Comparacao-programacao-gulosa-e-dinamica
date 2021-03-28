@@ -1,0 +1,14 @@
+Numeros:60 48 88 36 9 47 29 84 63 10 
+Maior(es) sequencia(s) programação dinamica:
+9 29 84 
+Comprimento MSC: 3
+Tempo: 11.000000 ns
+
+Maior(es) sequencia(s) programação gulosa:
+9 47 84 
+Comprimento MSC: 3
+Tempo: 11.000000 ns
+
+Os dois metodos tiveram o mesmo MSC
+
+Os dois metodos tiveram o mesmo tempo de execucao
